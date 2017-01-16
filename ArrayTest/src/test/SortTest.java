@@ -20,7 +20,7 @@ public class SortTest {
 		            }// for j
 		         }//for i
 		         for(int i=0;i<nums.length;i++){
-		            System.out.println("오름차순 : " + nums[i]+" ");
+		            System.out.println("�삤由꾩감�닚 : " + nums[i]+" ");
 		         }
 		      }//if
 		      else if(orderby==2){
@@ -35,10 +35,11 @@ public class SortTest {
 		         }//for i
 		         
 		         for(int i=0;i<nums.length;i++){
-		            System.out.println("내림차순 : " + nums[i]+" ");
+		            System.out.println("�궡由쇱감�닚 : " + nums[i]+" ");
 		         }
+		         
 		      }
-		      
+		      //캬캬캬
 		      
 		   }
 
